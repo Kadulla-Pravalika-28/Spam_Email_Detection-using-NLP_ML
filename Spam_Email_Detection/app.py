@@ -9,10 +9,10 @@ from scipy.sparse import hstack
 # -----------------------
 # 1. Load Model and Vectorizer
 # -----------------------
-with open(r"C:\Users\91990\Spam_Email_Detection\Models\ensemble_spam_model.pkl", "rb") as f:
+with open(r"C:\Users\91990\Projects\Spam_Email_Detection\Models\ensemble_spam_model.pkl", "rb") as f:
     ensemble = pickle.load(f)
 
-with open(r"C:\Users\91990\Spam_Email_Detection\Models\tfidf_vectorizer.pkl", "rb") as f:
+with open(r"C:\Users\91990\Projects\Spam_Email_Detection\Models\tfidf_vectorizer.pkl", "rb") as f:
     tfidf = pickle.load(f)
 
 # -----------------------
