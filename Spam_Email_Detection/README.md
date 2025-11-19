@@ -26,15 +26,10 @@ A **Machine Learning and NLP project** to detect whether an email is **Spam** or
 ## ⚡Technologies
 
 - Python
-
 - pandas, numpy
-
 - scikit-learn
-
 - nltk, wordcloud
-
 - Streamlit
-
 - Matplotlib, Seaborn
 
 ---
@@ -105,5 +100,5 @@ Spam_Email_Detection/
 
 ## 📄 License
 
-This project is licensed under the **MIT License** – See the [LICENSE](./LICENSE) file for details.
+This Project is licensed under the **MIT License** – See the [LICENSE](./LICENSE) file for details.
 
